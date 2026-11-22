@@ -2,7 +2,7 @@
 
 Agrupamento **não supervisionado** de objetos astronômicos do Sloan Digital Sky Survey (SDSS). O objetivo foi ver se os clusters encontrados sem rótulos recuperam as classes reais: **GALAXY**, **STAR** e **QSO** (quasar).
 
-Atividade 11 (Clusterização) da disciplina de Inteligência Artificial e Data Science. Continua o projeto [classificacao-estelar-ml](https://github.com/Naty-29/classificacao-estelar-ml), que usou a mesma base com modelos supervisionados.
+Atividade 8 (Clusterização) da disciplina de Inteligência Artificial e Data Science. Continua o projeto [classificacao-estelar-ml](https://github.com/Naty-29/classificacao-estelar-ml), que usou a mesma base com modelos supervisionados.
 
 ## Dataset
 
